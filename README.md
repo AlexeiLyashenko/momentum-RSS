@@ -1,2 +1,2 @@
 # alexeilyashenko-JSFE2021Q3
-Private repository for @alexeilyashenko
+https://rolling-scopes-school.github.io/alexeilyashenko-JSFE2021Q3/momentum/
